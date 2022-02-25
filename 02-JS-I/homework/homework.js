@@ -90,7 +90,7 @@ function menosQueNoventa(num) {
     return true
 }else{
   return false
-};
+ }
 }
 
 function mayorQueCincuenta(num) {
